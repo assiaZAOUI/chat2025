@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068295308927",
+    "project_id": "chat2025-eae81",
+    "storage_bucket": "chat2025-eae81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068295308927:android:990b4e3bfbe9f7038d214a",
+        "android_client_info": {
+          "package_name": "com.example.chat2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-EkeE-GnQl1jJ7RwyjOe2e1hgAR_jS30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
