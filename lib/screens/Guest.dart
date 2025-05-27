@@ -1,9 +1,9 @@
 import 'package:chat2025/models/UserModel.dart';
-import 'package:chat2025/screens/guest/Auth.dart';
-import 'package:chat2025/screens/guest/Password.dart';
-import 'package:chat2025/screens/guest/Term.dart';
-import 'package:chat2025/screens/services/CommonService.dart';
-import 'package:chat2025/screens/services/UserService.dart';
+import 'package:chat2025/screens/Auth/Auth.dart';
+import 'package:chat2025/screens/Auth/Password.dart';
+import 'package:chat2025/screens/Auth/Term.dart';
+import 'package:chat2025/services/CommonService.dart';
+import 'package:chat2025/services/UserService.dart';
 import 'package:flutter/material.dart';
 
 class GuestScreen extends StatefulWidget {

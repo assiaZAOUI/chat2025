@@ -42,6 +42,10 @@ class UserService {
     await _auth.signOut();
   }
 
+  String getCurrentUserId() {
+    return _auth.currentUser?.uid ?? '';
+  }
+
   Future<StateRegistration> mailinglist(
     String email, {
     StateRegistration? stateRegistration,
